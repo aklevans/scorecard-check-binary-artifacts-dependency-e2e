@@ -1,4 +1,4 @@
-package check
+package scorecardbinarytest
 
 func Check() string {
 	return "OK"
