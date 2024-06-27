@@ -1,7 +1,5 @@
-package main
+package check
 
-import "fmt"
-
-func main() {
-	fmt.Println("Hello, World!")
+func Check() string {
+	return "OK"
 }
